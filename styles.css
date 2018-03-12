@@ -1,0 +1,18 @@
+#mainImage {
+    max-width: 300px;
+    max-height: 400px;
+}
+
+#siteDiv {
+    width: 90%;
+    margin: 10px auto;
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(255, 153, 0);
+    padding: 10px;
+}
+
+#movieInfo {
+    flex-grow: 1;
+    padding: 15px;
+}
